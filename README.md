@@ -1,7 +1,6 @@
 # Conceitos importantes sobre o Terraform
 
 ## Reference
-
 ```txt
 Breakdown by content area:
 
