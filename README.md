@@ -3,6 +3,7 @@
 ## Reference
 Breakdown by content area:
 
+```txt
 1.0  Understand infrastructure as code (IaC) concepts: 0%
 2.0  Understand Terraform's purpose (vs other IaC): 50%
 3.0  Understand Terraform basics: 57%
@@ -12,6 +13,7 @@ Breakdown by content area:
 7.0  Implement and maintain state: 37%
 8.0  Read, generate, and modify configuration: 63%
 9.0  Understand Terraform Cloud and Enterprise capabilities: 100%
+```
 
 ## Meta-Arguments
 - `depends_on` - dependencia explicita dentro do terraform.
